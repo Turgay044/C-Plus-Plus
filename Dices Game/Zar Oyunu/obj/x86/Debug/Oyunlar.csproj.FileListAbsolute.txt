@@ -1,0 +1,20 @@
+C:\Users\Turgay\documents\visual studio 2010\Projects\Zar Oyunu\Zar Oyunu\bin\Debug\Zar Oyunu.exe
+C:\Users\Turgay\documents\visual studio 2010\Projects\Zar Oyunu\Zar Oyunu\bin\Debug\Zar Oyunu.pdb
+C:\Users\Turgay\documents\visual studio 2010\Projects\Zar Oyunu\Zar Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Turgay\documents\visual studio 2010\Projects\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Zar_Oyunu.Sayisal.resources
+C:\Users\Turgay\documents\visual studio 2010\Projects\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Zar_Oyunu.Properties.Resources.resources
+C:\Users\Turgay\documents\visual studio 2010\Projects\Zar Oyunu\Zar Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Turgay\documents\visual studio 2010\Projects\Zar Oyunu\Zar Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Turgay\documents\visual studio 2010\Projects\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Zar Oyunu.exe
+C:\Users\Turgay\documents\visual studio 2010\Projects\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Zar Oyunu.pdb
+C:\Users\Turgay\documents\visual studio 2010\Projects\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Zar_Oyunu.Barbut.resources
+C:\Users\drtur\Desktop\Zar Oyunu\Zar Oyunu\bin\Debug\Zar Oyunu.exe
+C:\Users\drtur\Desktop\Zar Oyunu\Zar Oyunu\bin\Debug\Zar Oyunu.pdb
+C:\Users\drtur\Desktop\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Oyunlar.csproj.AssemblyReference.cache
+C:\Users\drtur\Desktop\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Zar_Oyunu.Barbut.resources
+C:\Users\drtur\Desktop\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Zar_Oyunu.Sayisal.resources
+C:\Users\drtur\Desktop\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Zar_Oyunu.Properties.Resources.resources
+C:\Users\drtur\Desktop\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Oyunlar.csproj.GenerateResource.cache
+C:\Users\drtur\Desktop\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Oyunlar.csproj.CoreCompileInputs.cache
+C:\Users\drtur\Desktop\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Zar Oyunu.exe
+C:\Users\drtur\Desktop\Zar Oyunu\Zar Oyunu\obj\x86\Debug\Zar Oyunu.pdb
