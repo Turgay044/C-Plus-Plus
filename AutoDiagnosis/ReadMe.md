@@ -1,0 +1,3 @@
+This is a project I have created with Borland C++ . It is a program which helps the doctor to diagnose the patient and advice him what he has to do during his consultation.
+It prevents all missed symptoms and missed consultations. I haven't share the full code, many files and its database are not shared. if there is someone concerned with this program, he/she can contact me.
+turgayturguterkal@gmail.com 
